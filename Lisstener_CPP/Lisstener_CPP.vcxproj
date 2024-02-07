@@ -128,9 +128,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Quoter.cpp" />
     <ClCompile Include="TcpListener.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="quoter.h" />
     <ClInclude Include="TcpListener.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

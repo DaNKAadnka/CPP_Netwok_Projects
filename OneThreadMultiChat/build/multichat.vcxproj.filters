@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\79085\source\repos\study\Network_CPP_Projects\OneThreadMultiChat\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\79085\source\repos\study\Network_CPP_Projects\OneThreadMultiChat\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6243EBDD-6C94-3A93-A6A4-33223AFD3D38}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

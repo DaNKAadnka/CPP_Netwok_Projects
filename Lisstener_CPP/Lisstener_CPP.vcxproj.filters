@@ -21,9 +21,15 @@
     <ClCompile Include="TcpListener.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="Quoter.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TcpListener.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="quoter.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

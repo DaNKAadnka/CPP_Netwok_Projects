@@ -1,0 +1,4 @@
+{Follow one course until success}
+{Remember - first goes open bracket, then goes close bracket} {And it can be in one line}
+{Some people can be insane, don`t trust them}
+{Prepare yourself for more}
